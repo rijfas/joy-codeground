@@ -18,3 +18,6 @@ from joy import *
 c = circle()
 render(c)
 ```
+
+### Usage
+![usage](assets/usage.gif)
