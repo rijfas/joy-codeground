@@ -1,6 +1,6 @@
 # Joy CodeGround
 
-## A simple wrapper for [joy library](https://github.com/fossunited/joy)
+## A simple wrapper for [joy library](https://github.com/fossunited/joy) to render joy sketches in browser using vs code, (or in other words, for those who are allergic to Jupyter Notebook🥱) 
  
 ---
 ### How to use
